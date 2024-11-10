@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SynapseHealth/bin/Debug/net6.0
+/SynapseHealth/obj/Debug/net6.0
+/SynapseHealth/obj
+/SynapseHealthTests/bin/Debug/net6.0
+/SynapseHealthTests/obj/Debug/net6.0
+/SynapseHealthTests/obj
