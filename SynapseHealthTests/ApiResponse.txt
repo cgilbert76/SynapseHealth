@@ -1,0 +1,14 @@
+﻿{
+  "items": [
+    {
+      "OrderId": "1",
+      "Status": "Delivered",
+      "deliveryNotification": 0
+    },
+    {
+      "OrderId": "2",
+      "Status": "Not Delivered",
+      "deliveryNotification": 0
+    }
+  ]
+}
